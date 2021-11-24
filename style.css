@@ -1,0 +1,26 @@
+body {
+    
+    background-color: black;
+    color: white;
+} 
+h1 {
+    
+    color: white;
+    background-color: red;
+    padding: 10px 20px;
+}
+        
+#text-color {
+    color: aliceblue;
+}
+#back-photo {
+    
+    background-color: white;
+}
+.picture {
+padding: 5px;
+background-color: red;
+border-radius: 100%;
+width: 320px;
+margin: 50px;
+}
